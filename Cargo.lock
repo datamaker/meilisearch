@@ -890,8 +890,7 @@ dependencies = [
 [[package]]
 name = "charabia"
 version = "0.8.8"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "60dc1a562fc8cb53d552d371758a4ecd76d15cc7489d2b968529cd9cadcbd854"
+source = "git+https://github.com/datamaker/charabia.git?branch=main#c136ecff5b9401f9e019e341848cbe9fac936c8c"
 dependencies = [
  "aho-corasick",
  "cow-utils",
