@@ -890,7 +890,7 @@ dependencies = [
 [[package]]
 name = "charabia"
 version = "0.8.8"
-source = "git+https://github.com/datamaker/charabia.git?branch=main#c136ecff5b9401f9e019e341848cbe9fac936c8c"
+source = "git+https://github.com/datamaker/charabia.git?branch=main#44e6142091e2826c68ea242f3d9746bb20f8c2dc"
 dependencies = [
  "aho-corasick",
  "cow-utils",
